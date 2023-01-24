@@ -142,7 +142,7 @@ Add images and other contents using CSS record a screenshot of it.
                 <hr style="color:blue;">
             </div>
             <div class="author">
-                <p><b>Pavithra</b></p>
+                <p><b>Vaishnavi</b></p>
             </div>
             <div class="pub">
                 Packt>
