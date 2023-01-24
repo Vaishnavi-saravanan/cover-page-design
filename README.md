@@ -1,4 +1,4 @@
-### cover-page-design
+### COVER-PAGE-DESIGN
 
 ### AIM:
 To Design the following book cover page using HTML and CSS: AIM:
